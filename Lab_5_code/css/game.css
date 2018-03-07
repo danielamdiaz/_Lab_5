@@ -1,0 +1,16 @@
+.background    { background-image: url("https://wallup.net/wp-content/uploads/2017/03/29/496142-landscape-abstract-cityscape-pixel_art-Sun-748x421.png");
+
+                 background-color: black;
+                 table-layout: fixed;
+                 border-spacing: 0;   }
+.background td { padding: 0;          }
+.lava          { background: #33cc33; }
+.wall          { background: #ffffe6;   }
+.floater       { background: #ff5050}
+
+.game {
+  /*overflow: hidden;
+  max-width: 600px;
+  max-height: 450px;*/
+  position: relative;
+}
